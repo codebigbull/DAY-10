@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="fac.c" />
     <ClCompile Include="三子棋.c" />
+    <ClCompile Include="作业 10.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="chess.h" />
